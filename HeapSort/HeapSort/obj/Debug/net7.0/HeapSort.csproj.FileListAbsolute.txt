@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/HeapSort/HeapSort/obj/Debug/net7.0/HeapSort.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/HeapSort/HeapSort/obj/Debug/net7.0/HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/HeapSort/HeapSort/obj/Debug/net7.0/HeapSort.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/HeapSort/HeapSort/obj/Debug/net7.0/HeapSort.AssemblyInfo.cs
+/workspaces/Csharp-practice/HeapSort/HeapSort/obj/Debug/net7.0/HeapSort.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/HeapSort/HeapSort/bin/Debug/net7.0/HeapSort
+/workspaces/Csharp-practice/HeapSort/HeapSort/bin/Debug/net7.0/HeapSort.deps.json
+/workspaces/Csharp-practice/HeapSort/HeapSort/bin/Debug/net7.0/HeapSort.runtimeconfig.json
+/workspaces/Csharp-practice/HeapSort/HeapSort/bin/Debug/net7.0/HeapSort.dll
+/workspaces/Csharp-practice/HeapSort/HeapSort/bin/Debug/net7.0/HeapSort.pdb
+/workspaces/Csharp-practice/HeapSort/HeapSort/obj/Debug/net7.0/HeapSort.dll
+/workspaces/Csharp-practice/HeapSort/HeapSort/obj/Debug/net7.0/refint/HeapSort.dll
+/workspaces/Csharp-practice/HeapSort/HeapSort/obj/Debug/net7.0/HeapSort.pdb
+/workspaces/Csharp-practice/HeapSort/HeapSort/obj/Debug/net7.0/HeapSort.genruntimeconfig.cache
+/workspaces/Csharp-practice/HeapSort/HeapSort/obj/Debug/net7.0/ref/HeapSort.dll
