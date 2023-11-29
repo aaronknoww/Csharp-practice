@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/bin/Debug/net7.0/NextGreaterElement
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/bin/Debug/net7.0/NextGreaterElement.deps.json
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/bin/Debug/net7.0/NextGreaterElement.runtimeconfig.json
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/bin/Debug/net7.0/NextGreaterElement.dll
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/bin/Debug/net7.0/NextGreaterElement.pdb
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/obj/Debug/net7.0/NextGreaterElement.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/obj/Debug/net7.0/NextGreaterElement.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/obj/Debug/net7.0/NextGreaterElement.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/obj/Debug/net7.0/NextGreaterElement.AssemblyInfo.cs
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/obj/Debug/net7.0/NextGreaterElement.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/obj/Debug/net7.0/NextGreaterElement.dll
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/obj/Debug/net7.0/refint/NextGreaterElement.dll
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/obj/Debug/net7.0/NextGreaterElement.pdb
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/obj/Debug/net7.0/NextGreaterElement.genruntimeconfig.cache
+/workspaces/Csharp-practice/NextGreaterElement/NextGreaterElement/obj/Debug/net7.0/ref/NextGreaterElement.dll
