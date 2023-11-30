@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/bin/Debug/net7.0/NmeetingsOneRoom
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/bin/Debug/net7.0/NmeetingsOneRoom.deps.json
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/bin/Debug/net7.0/NmeetingsOneRoom.runtimeconfig.json
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/bin/Debug/net7.0/NmeetingsOneRoom.dll
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/bin/Debug/net7.0/NmeetingsOneRoom.pdb
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/obj/Debug/net7.0/NmeetingsOneRoom.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/obj/Debug/net7.0/NmeetingsOneRoom.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/obj/Debug/net7.0/NmeetingsOneRoom.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/obj/Debug/net7.0/NmeetingsOneRoom.AssemblyInfo.cs
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/obj/Debug/net7.0/NmeetingsOneRoom.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/obj/Debug/net7.0/NmeetingsOneRoom.dll
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/obj/Debug/net7.0/refint/NmeetingsOneRoom.dll
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/obj/Debug/net7.0/NmeetingsOneRoom.pdb
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/obj/Debug/net7.0/NmeetingsOneRoom.genruntimeconfig.cache
+/workspaces/Csharp-practice/Nmeetings/NmeetingsOneRoom/obj/Debug/net7.0/ref/NmeetingsOneRoom.dll
