@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/bin/Debug/net7.0/MinCostClimbingStairs
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/bin/Debug/net7.0/MinCostClimbingStairs.deps.json
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/bin/Debug/net7.0/MinCostClimbingStairs.runtimeconfig.json
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/bin/Debug/net7.0/MinCostClimbingStairs.dll
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/bin/Debug/net7.0/MinCostClimbingStairs.pdb
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/obj/Debug/net7.0/MinCostClimbingStairs.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/obj/Debug/net7.0/MinCostClimbingStairs.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/obj/Debug/net7.0/MinCostClimbingStairs.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/obj/Debug/net7.0/MinCostClimbingStairs.AssemblyInfo.cs
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/obj/Debug/net7.0/MinCostClimbingStairs.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/obj/Debug/net7.0/MinCostClimbingStairs.dll
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/obj/Debug/net7.0/refint/MinCostClimbingStairs.dll
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/obj/Debug/net7.0/MinCostClimbingStairs.pdb
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/obj/Debug/net7.0/MinCostClimbingStairs.genruntimeconfig.cache
+/workspaces/Csharp-practice/MinCostStairs/MinCostClimbingStairs/obj/Debug/net7.0/ref/MinCostClimbingStairs.dll
