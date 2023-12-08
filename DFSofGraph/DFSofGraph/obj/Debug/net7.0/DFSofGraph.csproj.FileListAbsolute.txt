@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/bin/Debug/net7.0/DFSofGraph
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/bin/Debug/net7.0/DFSofGraph.deps.json
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/bin/Debug/net7.0/DFSofGraph.runtimeconfig.json
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/bin/Debug/net7.0/DFSofGraph.dll
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/bin/Debug/net7.0/DFSofGraph.pdb
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/obj/Debug/net7.0/DFSofGraph.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/obj/Debug/net7.0/DFSofGraph.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/obj/Debug/net7.0/DFSofGraph.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/obj/Debug/net7.0/DFSofGraph.AssemblyInfo.cs
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/obj/Debug/net7.0/DFSofGraph.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/obj/Debug/net7.0/DFSofGraph.dll
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/obj/Debug/net7.0/refint/DFSofGraph.dll
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/obj/Debug/net7.0/DFSofGraph.pdb
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/obj/Debug/net7.0/DFSofGraph.genruntimeconfig.cache
+/workspaces/Csharp-practice/DFSofGraph/DFSofGraph/obj/Debug/net7.0/ref/DFSofGraph.dll
