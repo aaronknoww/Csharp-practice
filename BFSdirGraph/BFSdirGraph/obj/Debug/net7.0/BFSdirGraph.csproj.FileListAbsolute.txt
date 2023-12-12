@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/bin/Debug/net7.0/BFSdirGraph
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/bin/Debug/net7.0/BFSdirGraph.deps.json
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/bin/Debug/net7.0/BFSdirGraph.runtimeconfig.json
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/bin/Debug/net7.0/BFSdirGraph.dll
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/bin/Debug/net7.0/BFSdirGraph.pdb
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/obj/Debug/net7.0/BFSdirGraph.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/obj/Debug/net7.0/BFSdirGraph.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/obj/Debug/net7.0/BFSdirGraph.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/obj/Debug/net7.0/BFSdirGraph.AssemblyInfo.cs
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/obj/Debug/net7.0/BFSdirGraph.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/obj/Debug/net7.0/BFSdirGraph.dll
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/obj/Debug/net7.0/refint/BFSdirGraph.dll
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/obj/Debug/net7.0/BFSdirGraph.pdb
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/obj/Debug/net7.0/BFSdirGraph.genruntimeconfig.cache
+/workspaces/Csharp-practice/BFSdirGraph/BFSdirGraph/obj/Debug/net7.0/ref/BFSdirGraph.dll
