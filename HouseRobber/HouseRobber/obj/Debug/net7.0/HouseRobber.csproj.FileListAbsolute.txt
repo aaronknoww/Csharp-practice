@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/bin/Debug/net7.0/HouseRobber
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/bin/Debug/net7.0/HouseRobber.deps.json
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/bin/Debug/net7.0/HouseRobber.runtimeconfig.json
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/bin/Debug/net7.0/HouseRobber.dll
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/bin/Debug/net7.0/HouseRobber.pdb
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/obj/Debug/net7.0/HouseRobber.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/obj/Debug/net7.0/HouseRobber.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/obj/Debug/net7.0/HouseRobber.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/obj/Debug/net7.0/HouseRobber.AssemblyInfo.cs
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/obj/Debug/net7.0/HouseRobber.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/obj/Debug/net7.0/HouseRobber.dll
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/obj/Debug/net7.0/refint/HouseRobber.dll
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/obj/Debug/net7.0/HouseRobber.pdb
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/obj/Debug/net7.0/HouseRobber.genruntimeconfig.cache
+/workspaces/Csharp-practice/HouseRobber/HouseRobber/obj/Debug/net7.0/ref/HouseRobber.dll
