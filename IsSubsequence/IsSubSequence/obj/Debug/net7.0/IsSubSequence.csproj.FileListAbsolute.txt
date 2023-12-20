@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/obj/Debug/net7.0/IsSubSequence.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/obj/Debug/net7.0/IsSubSequence.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/obj/Debug/net7.0/IsSubSequence.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/obj/Debug/net7.0/IsSubSequence.AssemblyInfo.cs
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/obj/Debug/net7.0/IsSubSequence.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/bin/Debug/net7.0/IsSubSequence
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/bin/Debug/net7.0/IsSubSequence.deps.json
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/bin/Debug/net7.0/IsSubSequence.runtimeconfig.json
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/bin/Debug/net7.0/IsSubSequence.dll
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/bin/Debug/net7.0/IsSubSequence.pdb
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/obj/Debug/net7.0/IsSubSequence.dll
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/obj/Debug/net7.0/refint/IsSubSequence.dll
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/obj/Debug/net7.0/IsSubSequence.pdb
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/obj/Debug/net7.0/IsSubSequence.genruntimeconfig.cache
+/workspaces/Csharp-practice/IsSubsequence/IsSubSequence/obj/Debug/net7.0/ref/IsSubSequence.dll
