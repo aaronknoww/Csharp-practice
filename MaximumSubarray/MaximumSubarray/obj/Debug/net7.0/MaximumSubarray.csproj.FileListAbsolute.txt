@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/bin/Debug/net7.0/MaximumSubarray
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/bin/Debug/net7.0/MaximumSubarray.deps.json
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/bin/Debug/net7.0/MaximumSubarray.runtimeconfig.json
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/bin/Debug/net7.0/MaximumSubarray.dll
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/bin/Debug/net7.0/MaximumSubarray.pdb
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/obj/Debug/net7.0/MaximumSubarray.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/obj/Debug/net7.0/MaximumSubarray.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/obj/Debug/net7.0/MaximumSubarray.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/obj/Debug/net7.0/MaximumSubarray.AssemblyInfo.cs
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/obj/Debug/net7.0/MaximumSubarray.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/obj/Debug/net7.0/MaximumSubarray.dll
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/obj/Debug/net7.0/refint/MaximumSubarray.dll
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/obj/Debug/net7.0/MaximumSubarray.pdb
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/obj/Debug/net7.0/MaximumSubarray.genruntimeconfig.cache
+/workspaces/Csharp-practice/MaximumSubarray/MaximumSubarray/obj/Debug/net7.0/ref/MaximumSubarray.dll
