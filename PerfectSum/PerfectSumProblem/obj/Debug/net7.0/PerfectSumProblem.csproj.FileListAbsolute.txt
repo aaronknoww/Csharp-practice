@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/obj/Debug/net7.0/PerfectSumProblem.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/obj/Debug/net7.0/PerfectSumProblem.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/obj/Debug/net7.0/PerfectSumProblem.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/obj/Debug/net7.0/PerfectSumProblem.AssemblyInfo.cs
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/obj/Debug/net7.0/PerfectSumProblem.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/bin/Debug/net7.0/PerfectSumProblem
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/bin/Debug/net7.0/PerfectSumProblem.deps.json
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/bin/Debug/net7.0/PerfectSumProblem.runtimeconfig.json
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/bin/Debug/net7.0/PerfectSumProblem.dll
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/bin/Debug/net7.0/PerfectSumProblem.pdb
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/obj/Debug/net7.0/PerfectSumProblem.dll
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/obj/Debug/net7.0/refint/PerfectSumProblem.dll
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/obj/Debug/net7.0/PerfectSumProblem.pdb
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/obj/Debug/net7.0/PerfectSumProblem.genruntimeconfig.cache
+/workspaces/Csharp-practice/PerfectSum/PerfectSumProblem/obj/Debug/net7.0/ref/PerfectSumProblem.dll
