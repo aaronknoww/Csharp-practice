@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/bin/Debug/net7.0/MinCoinChange
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/bin/Debug/net7.0/MinCoinChange.deps.json
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/bin/Debug/net7.0/MinCoinChange.runtimeconfig.json
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/bin/Debug/net7.0/MinCoinChange.dll
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/bin/Debug/net7.0/MinCoinChange.pdb
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/obj/Debug/net7.0/MinCoinChange.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/obj/Debug/net7.0/MinCoinChange.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/obj/Debug/net7.0/MinCoinChange.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/obj/Debug/net7.0/MinCoinChange.AssemblyInfo.cs
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/obj/Debug/net7.0/MinCoinChange.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/obj/Debug/net7.0/MinCoinChange.dll
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/obj/Debug/net7.0/refint/MinCoinChange.dll
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/obj/Debug/net7.0/MinCoinChange.pdb
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/obj/Debug/net7.0/MinCoinChange.genruntimeconfig.cache
+/workspaces/Csharp-practice/MinCoinChange/MinCoinChange/obj/Debug/net7.0/ref/MinCoinChange.dll
