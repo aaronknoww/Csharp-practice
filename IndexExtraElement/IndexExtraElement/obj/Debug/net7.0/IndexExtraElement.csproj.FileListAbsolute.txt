@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/bin/Debug/net7.0/IndexExtraElement
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/bin/Debug/net7.0/IndexExtraElement.deps.json
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/bin/Debug/net7.0/IndexExtraElement.runtimeconfig.json
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/bin/Debug/net7.0/IndexExtraElement.dll
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/bin/Debug/net7.0/IndexExtraElement.pdb
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/obj/Debug/net7.0/IndexExtraElement.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/obj/Debug/net7.0/IndexExtraElement.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/obj/Debug/net7.0/IndexExtraElement.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/obj/Debug/net7.0/IndexExtraElement.AssemblyInfo.cs
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/obj/Debug/net7.0/IndexExtraElement.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/obj/Debug/net7.0/IndexExtraElement.dll
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/obj/Debug/net7.0/refint/IndexExtraElement.dll
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/obj/Debug/net7.0/IndexExtraElement.pdb
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/obj/Debug/net7.0/IndexExtraElement.genruntimeconfig.cache
+/workspaces/Csharp-practice/IndexExtraElement/IndexExtraElement/obj/Debug/net7.0/ref/IndexExtraElement.dll
