@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/bin/Debug/net7.0/IntegerReplacement
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/bin/Debug/net7.0/IntegerReplacement.deps.json
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/bin/Debug/net7.0/IntegerReplacement.runtimeconfig.json
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/bin/Debug/net7.0/IntegerReplacement.dll
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/bin/Debug/net7.0/IntegerReplacement.pdb
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/obj/Debug/net7.0/IntegerReplacement.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/obj/Debug/net7.0/IntegerReplacement.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/obj/Debug/net7.0/IntegerReplacement.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/obj/Debug/net7.0/IntegerReplacement.AssemblyInfo.cs
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/obj/Debug/net7.0/IntegerReplacement.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/obj/Debug/net7.0/IntegerReplacement.dll
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/obj/Debug/net7.0/refint/IntegerReplacement.dll
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/obj/Debug/net7.0/IntegerReplacement.pdb
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/obj/Debug/net7.0/IntegerReplacement.genruntimeconfig.cache
+/workspaces/Csharp-practice/IntegerReplacemnt/IntegerReplacement/obj/Debug/net7.0/ref/IntegerReplacement.dll
