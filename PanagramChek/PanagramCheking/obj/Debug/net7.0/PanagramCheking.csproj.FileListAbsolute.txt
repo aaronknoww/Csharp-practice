@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/bin/Debug/net7.0/PanagramCheking
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/bin/Debug/net7.0/PanagramCheking.deps.json
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/bin/Debug/net7.0/PanagramCheking.runtimeconfig.json
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/bin/Debug/net7.0/PanagramCheking.dll
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/bin/Debug/net7.0/PanagramCheking.pdb
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/obj/Debug/net7.0/PanagramCheking.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/obj/Debug/net7.0/PanagramCheking.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/obj/Debug/net7.0/PanagramCheking.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/obj/Debug/net7.0/PanagramCheking.AssemblyInfo.cs
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/obj/Debug/net7.0/PanagramCheking.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/obj/Debug/net7.0/PanagramCheking.dll
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/obj/Debug/net7.0/refint/PanagramCheking.dll
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/obj/Debug/net7.0/PanagramCheking.pdb
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/obj/Debug/net7.0/PanagramCheking.genruntimeconfig.cache
+/workspaces/Csharp-practice/PanagramChek/PanagramCheking/obj/Debug/net7.0/ref/PanagramCheking.dll
