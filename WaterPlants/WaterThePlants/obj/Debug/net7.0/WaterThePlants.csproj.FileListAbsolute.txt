@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/bin/Debug/net7.0/WaterThePlants
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/bin/Debug/net7.0/WaterThePlants.deps.json
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/bin/Debug/net7.0/WaterThePlants.runtimeconfig.json
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/bin/Debug/net7.0/WaterThePlants.dll
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/bin/Debug/net7.0/WaterThePlants.pdb
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/obj/Debug/net7.0/WaterThePlants.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/obj/Debug/net7.0/WaterThePlants.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/obj/Debug/net7.0/WaterThePlants.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/obj/Debug/net7.0/WaterThePlants.AssemblyInfo.cs
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/obj/Debug/net7.0/WaterThePlants.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/obj/Debug/net7.0/WaterThePlants.dll
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/obj/Debug/net7.0/refint/WaterThePlants.dll
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/obj/Debug/net7.0/WaterThePlants.pdb
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/obj/Debug/net7.0/WaterThePlants.genruntimeconfig.cache
+/workspaces/Csharp-practice/WaterPlants/WaterThePlants/obj/Debug/net7.0/ref/WaterThePlants.dll
