@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/bin/Debug/net7.0/ImplementAtoi
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/bin/Debug/net7.0/ImplementAtoi.deps.json
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/bin/Debug/net7.0/ImplementAtoi.runtimeconfig.json
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/bin/Debug/net7.0/ImplementAtoi.dll
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/bin/Debug/net7.0/ImplementAtoi.pdb
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/obj/Debug/net7.0/ImplementAtoi.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/obj/Debug/net7.0/ImplementAtoi.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/obj/Debug/net7.0/ImplementAtoi.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/obj/Debug/net7.0/ImplementAtoi.AssemblyInfo.cs
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/obj/Debug/net7.0/ImplementAtoi.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/obj/Debug/net7.0/ImplementAtoi.dll
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/obj/Debug/net7.0/refint/ImplementAtoi.dll
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/obj/Debug/net7.0/ImplementAtoi.pdb
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/obj/Debug/net7.0/ImplementAtoi.genruntimeconfig.cache
+/workspaces/Csharp-practice/ImplementAtoi/ImplementAtoi/obj/Debug/net7.0/ref/ImplementAtoi.dll
