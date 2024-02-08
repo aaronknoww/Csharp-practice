@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/bin/Debug/net7.0/SortCharactersFreq
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/bin/Debug/net7.0/SortCharactersFreq.deps.json
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/bin/Debug/net7.0/SortCharactersFreq.runtimeconfig.json
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/bin/Debug/net7.0/SortCharactersFreq.dll
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/bin/Debug/net7.0/SortCharactersFreq.pdb
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/obj/Debug/net7.0/SortCharactersFreq.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/obj/Debug/net7.0/SortCharactersFreq.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/obj/Debug/net7.0/SortCharactersFreq.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/obj/Debug/net7.0/SortCharactersFreq.AssemblyInfo.cs
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/obj/Debug/net7.0/SortCharactersFreq.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/obj/Debug/net7.0/SortCharactersFreq.dll
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/obj/Debug/net7.0/refint/SortCharactersFreq.dll
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/obj/Debug/net7.0/SortCharactersFreq.pdb
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/obj/Debug/net7.0/SortCharactersFreq.genruntimeconfig.cache
+/workspaces/Csharp-practice/SortCharcterFreq/SortCharactersFreq/obj/Debug/net7.0/ref/SortCharactersFreq.dll
