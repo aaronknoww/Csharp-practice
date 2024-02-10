@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/bin/Debug/net7.0/LongestCommonSubsequence
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/bin/Debug/net7.0/LongestCommonSubsequence.deps.json
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/bin/Debug/net7.0/LongestCommonSubsequence.runtimeconfig.json
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/bin/Debug/net7.0/LongestCommonSubsequence.dll
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/bin/Debug/net7.0/LongestCommonSubsequence.pdb
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/obj/Debug/net7.0/LongestCommonSubsequence.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/obj/Debug/net7.0/LongestCommonSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/obj/Debug/net7.0/LongestCommonSubsequence.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/obj/Debug/net7.0/LongestCommonSubsequence.AssemblyInfo.cs
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/obj/Debug/net7.0/LongestCommonSubsequence.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/obj/Debug/net7.0/LongestCommonSubsequence.dll
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/obj/Debug/net7.0/refint/LongestCommonSubsequence.dll
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/obj/Debug/net7.0/LongestCommonSubsequence.pdb
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/obj/Debug/net7.0/LongestCommonSubsequence.genruntimeconfig.cache
+/workspaces/Csharp-practice/LongestCommonSubsequence/LongestCommonSubsequence/obj/Debug/net7.0/ref/LongestCommonSubsequence.dll
