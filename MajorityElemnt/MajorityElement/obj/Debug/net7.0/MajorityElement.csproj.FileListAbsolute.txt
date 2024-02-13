@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/bin/Debug/net7.0/MajorityElement
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/bin/Debug/net7.0/MajorityElement.deps.json
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/bin/Debug/net7.0/MajorityElement.runtimeconfig.json
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/bin/Debug/net7.0/MajorityElement.dll
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/bin/Debug/net7.0/MajorityElement.pdb
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/obj/Debug/net7.0/MajorityElement.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/obj/Debug/net7.0/MajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/obj/Debug/net7.0/MajorityElement.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/obj/Debug/net7.0/MajorityElement.AssemblyInfo.cs
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/obj/Debug/net7.0/MajorityElement.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/obj/Debug/net7.0/MajorityElement.dll
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/obj/Debug/net7.0/refint/MajorityElement.dll
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/obj/Debug/net7.0/MajorityElement.pdb
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/obj/Debug/net7.0/MajorityElement.genruntimeconfig.cache
+/workspaces/Csharp-practice/MajorityElemnt/MajorityElement/obj/Debug/net7.0/ref/MajorityElement.dll
