@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/bin/Debug/net7.0/PartyCouples
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/bin/Debug/net7.0/PartyCouples.deps.json
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/bin/Debug/net7.0/PartyCouples.runtimeconfig.json
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/bin/Debug/net7.0/PartyCouples.dll
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/bin/Debug/net7.0/PartyCouples.pdb
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/obj/Debug/net7.0/PartyCouples.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/obj/Debug/net7.0/PartyCouples.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/obj/Debug/net7.0/PartyCouples.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/obj/Debug/net7.0/PartyCouples.AssemblyInfo.cs
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/obj/Debug/net7.0/PartyCouples.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/obj/Debug/net7.0/PartyCouples.dll
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/obj/Debug/net7.0/refint/PartyCouples.dll
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/obj/Debug/net7.0/PartyCouples.pdb
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/obj/Debug/net7.0/PartyCouples.genruntimeconfig.cache
+/workspaces/Csharp-practice/PartyCouples/PartyCouples/obj/Debug/net7.0/ref/PartyCouples.dll
