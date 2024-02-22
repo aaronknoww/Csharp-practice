@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/bin/Debug/net7.0/BitwiseANDnumberRange
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/bin/Debug/net7.0/BitwiseANDnumberRange.deps.json
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/bin/Debug/net7.0/BitwiseANDnumberRange.runtimeconfig.json
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/bin/Debug/net7.0/BitwiseANDnumberRange.dll
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/bin/Debug/net7.0/BitwiseANDnumberRange.pdb
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/obj/Debug/net7.0/BitwiseANDnumberRange.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/obj/Debug/net7.0/BitwiseANDnumberRange.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/obj/Debug/net7.0/BitwiseANDnumberRange.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/obj/Debug/net7.0/BitwiseANDnumberRange.AssemblyInfo.cs
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/obj/Debug/net7.0/BitwiseANDnumberRange.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/obj/Debug/net7.0/BitwiseANDnumberRange.dll
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/obj/Debug/net7.0/refint/BitwiseANDnumberRange.dll
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/obj/Debug/net7.0/BitwiseANDnumberRange.pdb
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/obj/Debug/net7.0/BitwiseANDnumberRange.genruntimeconfig.cache
+/workspaces/Csharp-practice/BitwiseANDNumberRange/BitwiseANDnumberRange/obj/Debug/net7.0/ref/BitwiseANDnumberRange.dll
