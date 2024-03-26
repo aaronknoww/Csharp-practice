@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/bin/Debug/net7.0/FindAllDuplicatesInArray
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/bin/Debug/net7.0/FindAllDuplicatesInArray.deps.json
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/bin/Debug/net7.0/FindAllDuplicatesInArray.runtimeconfig.json
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/bin/Debug/net7.0/FindAllDuplicatesInArray.dll
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/bin/Debug/net7.0/FindAllDuplicatesInArray.pdb
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/obj/Debug/net7.0/FindAllDuplicatesInArray.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/obj/Debug/net7.0/FindAllDuplicatesInArray.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/obj/Debug/net7.0/FindAllDuplicatesInArray.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/obj/Debug/net7.0/FindAllDuplicatesInArray.AssemblyInfo.cs
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/obj/Debug/net7.0/FindAllDuplicatesInArray.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/obj/Debug/net7.0/FindAllDuplicatesInArray.dll
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/obj/Debug/net7.0/refint/FindAllDuplicatesInArray.dll
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/obj/Debug/net7.0/FindAllDuplicatesInArray.pdb
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/obj/Debug/net7.0/FindAllDuplicatesInArray.genruntimeconfig.cache
+/workspaces/Csharp-practice/FindAllDuplicatesInArray/FindAllDuplicatesInArray/obj/Debug/net7.0/ref/FindAllDuplicatesInArray.dll
