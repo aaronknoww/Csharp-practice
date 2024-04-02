@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/bin/Debug/net7.0/IsomorphicString
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/bin/Debug/net7.0/IsomorphicString.deps.json
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/bin/Debug/net7.0/IsomorphicString.runtimeconfig.json
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/bin/Debug/net7.0/IsomorphicString.dll
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/bin/Debug/net7.0/IsomorphicString.pdb
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/obj/Debug/net7.0/IsomorphicString.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/obj/Debug/net7.0/IsomorphicString.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/obj/Debug/net7.0/IsomorphicString.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/obj/Debug/net7.0/IsomorphicString.AssemblyInfo.cs
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/obj/Debug/net7.0/IsomorphicString.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/obj/Debug/net7.0/IsomorphicString.dll
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/obj/Debug/net7.0/refint/IsomorphicString.dll
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/obj/Debug/net7.0/IsomorphicString.pdb
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/obj/Debug/net7.0/IsomorphicString.genruntimeconfig.cache
+/workspaces/Csharp-practice/IsomorphicString/IsomorphicString/obj/Debug/net7.0/ref/IsomorphicString.dll
