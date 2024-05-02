@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/bin/Debug/net7.0/ReversePrefixWord
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/bin/Debug/net7.0/ReversePrefixWord.deps.json
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/bin/Debug/net7.0/ReversePrefixWord.runtimeconfig.json
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/bin/Debug/net7.0/ReversePrefixWord.dll
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/bin/Debug/net7.0/ReversePrefixWord.pdb
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/obj/Debug/net7.0/ReversePrefixWord.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/obj/Debug/net7.0/ReversePrefixWord.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/obj/Debug/net7.0/ReversePrefixWord.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/obj/Debug/net7.0/ReversePrefixWord.AssemblyInfo.cs
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/obj/Debug/net7.0/ReversePrefixWord.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/obj/Debug/net7.0/ReversePrefixWord.dll
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/obj/Debug/net7.0/refint/ReversePrefixWord.dll
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/obj/Debug/net7.0/ReversePrefixWord.pdb
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/obj/Debug/net7.0/ReversePrefixWord.genruntimeconfig.cache
+/workspaces/Csharp-practice/ReversePrefixWord/ReversePrefixWord/obj/Debug/net7.0/ref/ReversePrefixWord.dll
