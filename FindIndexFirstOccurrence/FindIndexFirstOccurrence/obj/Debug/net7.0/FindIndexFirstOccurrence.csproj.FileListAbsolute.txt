@@ -1,0 +1,15 @@
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/bin/Debug/net7.0/FindIndexFirstOccurrence
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/bin/Debug/net7.0/FindIndexFirstOccurrence.deps.json
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/bin/Debug/net7.0/FindIndexFirstOccurrence.runtimeconfig.json
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/bin/Debug/net7.0/FindIndexFirstOccurrence.dll
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/bin/Debug/net7.0/FindIndexFirstOccurrence.pdb
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/obj/Debug/net7.0/FindIndexFirstOccurrence.csproj.AssemblyReference.cache
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/obj/Debug/net7.0/FindIndexFirstOccurrence.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/obj/Debug/net7.0/FindIndexFirstOccurrence.AssemblyInfoInputs.cache
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/obj/Debug/net7.0/FindIndexFirstOccurrence.AssemblyInfo.cs
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/obj/Debug/net7.0/FindIndexFirstOccurrence.csproj.CoreCompileInputs.cache
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/obj/Debug/net7.0/FindIndexFirstOccurrence.dll
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/obj/Debug/net7.0/refint/FindIndexFirstOccurrence.dll
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/obj/Debug/net7.0/FindIndexFirstOccurrence.pdb
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/obj/Debug/net7.0/FindIndexFirstOccurrence.genruntimeconfig.cache
+/workspaces/Csharp-practice/FindIndexFirstOccurrence/FindIndexFirstOccurrence/obj/Debug/net7.0/ref/FindIndexFirstOccurrence.dll
